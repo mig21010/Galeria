@@ -13,7 +13,9 @@
 	<header>
 		<div class="contenedor">
 			<h1 class="titulo">Mi Increible Galeria en PHP y MySQL</h1>
-		</div>	
+
+		</div>
+		
 	</header>
 	<section class="fotos">
 		<div class="contenedor">
@@ -31,6 +33,7 @@
 					<?php if($total_paginas != $pagina_actual):?>
 					<a href="index.php?p=<?php echo $pagina_actual +1; ?>" class="derecha">Pagina Siguiente <i class="fa fa-long-arrow-right"></i> </a>
 				<?php endif ?>
+				    <a class="button" href="">Añadir nueva imagen</a>
 			</div>
 		</div>
 		</section>		
