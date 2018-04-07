@@ -33,7 +33,7 @@
 					<?php if($total_paginas != $pagina_actual):?>
 					<a href="index.php?p=<?php echo $pagina_actual +1; ?>" class="derecha">Pagina Siguiente <i class="fa fa-long-arrow-right"></i> </a>
 				<?php endif ?>
-				    <a class="button" href="">Añadir nueva imagen</a>
+				    <a class="button" href="subir.php">Añadir nueva imagen</a>
 			</div>
 		</div>
 		</section>		
