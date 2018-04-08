@@ -12,7 +12,7 @@
 <body>
 	<header>
 		<div class="contenedor">
-			<h1 class="titulo">Mi Increible Galeria en PHP y MySQL</h1>
+			<h1 class="titulo">Galeria</h1>
 
 		</div>
 		
