@@ -40,6 +40,7 @@
 	
 		<footer>
 		<p class="copyright">Galería creada por Miguel Escamilla</p>
+		<a href="https://github.com/mig21010" class="git fa fa-github">Github</a>
 		</footer>
 </body>
 </html>
