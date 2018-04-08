@@ -30,6 +30,7 @@
 				<p class="error"><?php echo $error; ?></p>
 			<?php endif ?>
 			<input type="submit" class="submit" value="Subir foto">
+			<a href="index.php" class="submit">Atrás</a>
 
 		</form>
 	</div>	

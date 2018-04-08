@@ -164,6 +164,7 @@ footer .copyright {
 }
 
 /* --- Formulario --- */
+
 .formulario {
 	max-width: 500px;
 	width:90%;
@@ -225,4 +226,5 @@ footer .copyright {
 
 .formulario .submit:hover {
 	border:1px solid rgba(255,255,255,1);
+	text-decoration: none;
 }
