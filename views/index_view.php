@@ -12,7 +12,7 @@
 <body>
 	<header>
 		<div class="contenedor">
-			<h1 class="titulo">Galeria</h1>
+			<h1 class="titulo">Galeria en PHP</h1>
 
 		</div>
 		
